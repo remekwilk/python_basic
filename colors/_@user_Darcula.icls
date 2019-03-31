@@ -1,0 +1,17 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-02-20T16:45:13</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2018.2.4.0.0</property>
+    <property name="modified">2019-02-20T22:25:47</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="acacac" />
+        <option name="BACKGROUND" value="4d4d4d" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
