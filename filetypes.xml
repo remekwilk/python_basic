@@ -12,6 +12,7 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping ext="db" type="DBN-SQL" />
       <mapping pattern="README" type="Markdown" />
       <mapping pattern="1" type="Markdown" />
       <mapping pattern="example.db" type="SQL" />
